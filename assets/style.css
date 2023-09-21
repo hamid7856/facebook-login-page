@@ -1,0 +1,18 @@
+body{
+    background-color: #f0f2f5;
+}
+.left{
+    margin: 13% 0% 10% 8%;
+}
+.left h1{
+    color: darkblue;
+    font-size: 60px;
+}
+.right{
+    margin: 10% 0% 10% 0%;
+    /* border: 1px solid grey; */
+    box-shadow: black 2px 2px;
+    background-color: white;
+    border-radius: 10px;
+    padding-top: 10px;
+}
